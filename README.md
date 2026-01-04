@@ -5,6 +5,9 @@ This is a game project created together with 3 other classmates in the "CS 6457:
 # Instruction
 Play the game with the "Sid the Squirrel.exe" file
 
+# Youtube link
+
+https://www.youtube.com/watch?v=l4dxJOaDrnA
 
 ## Demo
 ![demo](demo.png)
